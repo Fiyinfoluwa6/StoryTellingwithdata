@@ -9,7 +9,7 @@ A data driven approach using San Francisco Police Department Crime Reporting Sys
 5. Licensing, Authors, and Acknowledgements
 
 ## Installation
-Use the package manager [pip](https://pypi.org/project/basemap/) to install Basemap. Aside from this there is no need for other libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
+Use the package manager [pip](https://pypi.org/project/plotly/) to install Plotly. Aside from this there is no need for other libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation
 For this project i was interest in exploring the San Francisco Police Department Crime Reporting System Kaggle dataset to answer the followng questions
